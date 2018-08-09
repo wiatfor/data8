@@ -1,3 +1,0 @@
-1 stand
-130 run 
-279 jump
